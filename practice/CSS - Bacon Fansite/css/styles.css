@@ -1,0 +1,19 @@
+img:hover{
+    background-color:blue;
+}
+.carrot{
+    background-color: greenyellow;
+}
+.broccoli{
+    background-color: orange;
+}
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color: red;
+}
+/* 
+#big{
+    font-size: 100px;
+} */
